@@ -1,0 +1,22 @@
+{
+    "name": "RangelReale/yii2-storerelation",
+    "description": "Yii behavior for ActiveRecord relation storage",
+    "keywords": ["yii2", "relation", "behavior", "activerecord"],
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Rangel Reale",
+            "email": "rangelspam@gmail.com"
+        }
+    ],
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "RangelReale\\storerelation\\": ""
+        }
+    }    
+}
