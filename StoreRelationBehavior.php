@@ -32,7 +32,7 @@ class StoreRelationBehavior extends Behavior
     /**
      * @var array
      */
-    public $storeRelationConfig = ['class' => 'app\components\StoreRelationAttribute'];
+    public $storeRelationConfig = ['class' => '\RangelReale\storerelation\StoreRelationAttribute'];
     
     /**
      * @var StoreRelationAttribute[]
